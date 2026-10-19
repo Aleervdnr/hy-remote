@@ -1,6 +1,6 @@
 # HY Remote
 
-Controlá un proyector Android desde el navegador de tu celular, por Wi-Fi y sin depender de una notebook.
+Controlá un proyector Android desde el navegador de tu celular, por Wi-Fi.
 
 **[Descargar la APK](https://github.com/Aleervdnr/hy-remote/releases/latest/download/HY-Remote.apk)** · [Instalación paso a paso](docs/INSTALACION.md)
 
@@ -15,7 +15,7 @@ Controlá un proyector Android desde el navegador de tu celular, por Wi-Fi y sin
 - QR generado por cada instalación y sesión del navegador persistente.
 - Servicio local que vuelve al encender el proyector, si el firmware permite su inicio.
 
-No hace falta instalar una app en el teléfono: la APK se instala **en el proyector**.
+La APK se instala **solo en el proyector**.
 
 <img src="docs/images/control.png" alt="Control y accesos a apps desde el celular" width="240"> <img src="docs/images/proyeccion.png" alt="Configuraciones de proyección" width="240">
 
