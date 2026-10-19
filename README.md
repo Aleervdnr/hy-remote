@@ -66,6 +66,10 @@ Para comprobar los gestos del frontend con Node.js:
 node tests/touch-gestures.cjs
 ```
 
+## Próximas funciones
+
+Consultá la [lista de funciones pendientes](ROADMAP.md), que incluye actualizar HY Remote desde la propia APK y el ajuste de proyección con una foto.
+
 ## Créditos
 
 La generación de códigos QR utiliza la biblioteca Java de **Project Nayuki**, bajo licencia MIT. La revisión y el aviso completo están en [AVISOS-TERCEROS.txt](AVISOS-TERCEROS.txt).
