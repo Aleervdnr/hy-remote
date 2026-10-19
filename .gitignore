@@ -1,0 +1,17 @@
+# Salidas y herramientas locales
+/build/
+/.signing/
+/local.properties
+/.env
+/.env.*
+*.apk
+*.idsig
+*.keystore
+*.jks
+*.pk8
+*.pem
+*.key
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
